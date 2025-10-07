@@ -2,7 +2,7 @@
 title:          "Equivariant bordism classification of five-dimensional $(ℤ_2)^3$-manifolds with isolated fixed points"
 date:           2025-06-28 00:01:00 +0800
 selected:       true
-pub:            "Mathematische Zeitschrift"
+pub:            "Mathematische Zeitschrift" 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
