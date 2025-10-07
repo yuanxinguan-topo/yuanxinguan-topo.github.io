@@ -1,5 +1,5 @@
 ---
-title:          "Equivariant bordism classification of five-dimensional $A$-manifolds with isolated fixed points"
+title:          "Equivariant bordism classification of five-dimensional $Z_2^3$-manifolds with isolated fixed points"
 date:           2025-06-28 00:01:00 +0800
 selected:       true
 pub:            "Mathematische Zeitschrift"
