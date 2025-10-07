@@ -34,16 +34,16 @@ short_bio: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Fudan University
+#  logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    School of Mathematical Sciences <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2021 - present
+- name: Sun Yat-Sen University,
+#  logo: /assets/images/badges/PKU_red.png
+  position: B.S. in Mathematics
+  date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
