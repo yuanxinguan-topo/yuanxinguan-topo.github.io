@@ -15,6 +15,7 @@ authors:
   - Yuanxin Guan
   - Zhi Lü
 links:
+  Paper: https://link.springer.com/article/10.1007/s00209-025-03823-6
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
