@@ -23,7 +23,8 @@ email: "yxguan21@m.fudan.edu"
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph. D. student in School of Mathematical Sciences, Fudan University. My advisor is Professor Lü Zhi.
+    I am a Ph. D. student in School of Mathematical Sciences, Fudan University. My advisor is Professor 
+    <a href="https://mathscinet.ams.org/mathscinet/author?authorId=364211" target="_blank">Lü Zhi</a>.
   </p>
   <p>
     My research interests lie in algebraic topology and related fields, with a main focus on equivariant geometric bordism.
