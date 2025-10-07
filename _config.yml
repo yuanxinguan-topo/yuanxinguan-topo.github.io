@@ -16,9 +16,17 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
+# Markdown 处理
 markdown: kramdown
+highlighter: rouge
+
+# Kramdown 配置
 kramdown:
   math_engine: mathjax
+  syntax_highlighter: rouge
+  input: GFM
+  hard_wrap: false
+
 plugins:
   - jekyll-email-protect
 
