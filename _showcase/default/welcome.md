@@ -19,6 +19,6 @@ date: 2024-01-12 00:01:00 +0800
     </p>
     -->
     <p>
-        Equivariant geometric bordism of $(_2)^k$-manifolds fixing isolated points
+        Equivariant geometric bordism of $(ℤ_2)^k$-manifolds fixing isolated points, Saga University
     </p>
 </div>
