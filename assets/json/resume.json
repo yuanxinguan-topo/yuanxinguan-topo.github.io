@@ -14,13 +14,13 @@
       "countryCode": "",
       "region": "California"
     },
-    #"profiles": [
-    #  {
-    #    "network": "Twitter",
-    #    "username": "AlbertEinstein",
-    #    "url": "https://twitter.com/AlbertEinstein"
-    #  }
-    #]
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [
     {
