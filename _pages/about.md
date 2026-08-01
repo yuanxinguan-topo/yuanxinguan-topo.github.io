@@ -4,7 +4,7 @@ title: Home
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
- profile:
+profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a Ph. D. student in School of Mathematical Sciences, Fudan University. My advisor is Professor Zhi Lü.
+Hi! I am a Ph.D. student at the School of Mathematical Sciences, Fudan University. My advisor is Professor Zhi Lü.
 My research interests lie in algebraic topology and related fields, with a main focus on equivariant geometric bordism.
